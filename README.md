@@ -821,4 +821,9 @@ INSERT INTO Tickets (TicaketID, TrainID,PassengerID, TicketStatus, BoardingStn, 
 ```
 
 # Part 2
-[Shashi](https://github.com/ranjanshashi9471/ca105_assignment/shashi_23112036.md)
+
+[Nikita Pale - 22111042](https://github.com/nikitapale/dbms_assignment/blob/main/Nikita_22111042.md)
+
+[Vilas Jadhav - 22111075](https://github.com/nikitapale/dbms_assignment/blob/main/Vilas_22111075.md)
+
+
