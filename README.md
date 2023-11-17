@@ -3,9 +3,9 @@
 # <center>INTERCITY EXPRESS TRAINS</center>
 
 ## Member Contributions
-   - ### Nikita Pale
+   - ### 22111042 - Nikita Pale
        * ER Diagram, Creation of Relational Schema, Relations from ER diagram.
-  - ### Vilas Jadhav
+  - ### 22111075 - Vilas Jadhav
       *  Data Collection and Organization, Insertion of data into tables.
 
 # Part 1
